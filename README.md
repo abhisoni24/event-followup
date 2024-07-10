@@ -34,7 +34,7 @@ let transporter = nodemailer.createTransport({
     pass: 'your-password'
   }
 });
-
+```
 4. Add your welcome attachment:
    Place your welcome.pdf file (or any other attachment) in the attachments directory.
 
